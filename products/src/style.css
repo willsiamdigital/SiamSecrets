@@ -1,0 +1,12 @@
+body{font-family:Georgia,serif;max-width:760px;margin:0 auto;padding:24px;color:#222;line-height:1.5;font-size:11pt}
+h1{color:#5b2a86;border-bottom:2px solid #e3d3f2;padding-bottom:4px;page-break-after:avoid}
+h2{color:#5b2a86}
+header h1.title{font-size:30pt;text-align:center;border:none;margin-top:90px}
+p.subtitle{text-align:center;font-size:14pt;color:#666;margin-bottom:60px}
+table{border-collapse:collapse;width:100%;font-size:9.5pt;margin:10px 0}
+th{background:#5b2a86;color:#fff;text-align:left;padding:5px}
+td{border-bottom:1px solid #ddd;padding:5px;vertical-align:top}
+code{background:#f4effa;padding:1px 4px;font-size:9pt;word-break:break-word}
+blockquote{border-left:4px solid #b88ae0;margin-left:0;padding-left:14px;color:#444}
+hr{border:none;border-top:1px solid #ddd}
+tr{page-break-inside:avoid}
